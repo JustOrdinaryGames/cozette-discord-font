@@ -1,74 +1,74 @@
 :root {
-    --font-primary: "CozetteVector" !important;
-    --font-display: "CozetteVector" !important;
+    --font-primary: "Cozette" !important;
+    --font-display: "Cozette" !important;
 }
 
 @font-face {
-    font-family: "CozetteVector";
+    font-family: "Cozette";
     font-style: normal;
     font-weight: 300;
-    src: url("https://cdn.jsdelivr.net/gh/JustOrdinarygames/cozette-discord-font/CozetteVector.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/JustOrdinaryGames/cozette-discord-font/CozetteVector.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: "CozetteVector";
+    font-family: "Cozette";
     font-style: italic;
     font-weight: 300;
-    src: url("https://cdn.jsdelivr.net/gh/JustOrdinarygames/cozette-discord-font/CozetteVector.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/JustOrdinaryGames/cozette-discord-font/CozetteVector.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: "CozetteVector";
+    font-family: "Cozette";
     font-style: normal;
     font-weight: 400;
-    src: url("https://cdn.jsdelivr.net/gh/JustOrdinarygames/cozette-discord-font/CozetteVector.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/JustOrdinaryGames/cozette-discord-font/CozetteVector.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: "CozetteVector";
+    font-family: "Cozette";
     font-style: italic;
     font-weight: 400;
-    src: url("https://cdn.jsdelivr.net/gh/JustOrdinarygames/cozette-discord-font/CozetteVector.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/JustOrdinaryGames/cozette-discord-font/CozetteVector.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: "CozetteVector";
+    font-family: "Cozette";
     font-style: normal;
     font-weight: 500;
-    src: url("https://cdn.jsdelivr.net/gh/JustOrdinarygames/cozette-discord-font/CozetteVector.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/JustOrdinaryGames/cozette-discord-font/CozetteVector.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: "CozetteVector";
+    font-family: "Cozette";
     font-style: italic;
     font-weight: 500;
-    src: url("https://cdn.jsdelivr.net/gh/JustOrdinarygames/cozette-discord-font/CozetteVector.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/JustOrdinaryGames/cozette-discord-font/CozetteVector.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: "CozetteVector";
+    font-family: "Cozette";
     font-style: normal;
     font-weight: 600;
-    src: url("https://cdn.jsdelivr.net/gh/JustOrdinarygames/cozette-discord-font/CozetteVector.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/JustOrdinaryGames/cozette-discord-font/CozetteVectorBold.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: "CozetteVector";
+    font-family: "Cozette";
     font-style: italic;
     font-weight: 600;
-    src: url("https://cdn.jsdelivr.net/gh/JustOrdinarygames/cozette-discord-font/CozetteVector.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/JustOrdinaryGames/cozette-discord-font/CozetteVectorBold.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: "CozetteVector";
+    font-family: "Cozette";
     font-style: normal;
     font-weight: 700;
-    src: url("https://cdn.jsdelivr.net/gh/JustOrdinarygames/cozette-discord-font/CozetteVector.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/JustOrdinaryGames/cozette-discord-font/CozetteVectorBold.woff2") format("woff2");
 }
 
 @font-face {
-    font-family: "CozetteVector";
+    font-family: "Cozette";
     font-style: italic;
     font-weight: 700;
-    src: url("https://cdn.jsdelivr.net/gh/JustOrdinarygames/cozette-discord-font/CozetteVector.otf") format("otf");
+    src: url("https://cdn.jsdelivr.net/gh/JustOrdinaryGames/cozette-discord-font/CozetteVectorBold.woff2") format("woff2");
 }
